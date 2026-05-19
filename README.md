@@ -1,5 +1,5 @@
 # AGATE
-Code for the paper ["Random Walk Regularized Graph Auto Encoder"](https://arxiv.org/pdf/1908.04003.pdf)
+Code for the paper ["Bidirectional Semantic Accumulation for Deep Graph Representation Learning via Autoencoders"]
 
 
 The base code is a PyTorch implementation of the Variational Graph Auto-Encoder model described in the paper:
