@@ -18,7 +18,7 @@ python train.py --model="gcn_ae" --dataset-str="Pubmed" --dw=1 --epochs=2000 --w
 python train.py --model="gcn_ae" --dataset-str="cora" --dw=1 --epochs=200 --walk-length=30 --window-size=30 --number-walks=50 --lr_dw=0.01
 python trainnew.py --model="gcn_ae" --dataset-str="photo" --dw=1 --epochs=200 --walk-length=30 --window-size=30 --number-walks=50 --lr_dw=0.01
 python trainnew.py --model="gcn_ae" --dataset-str="computers" --dw=1 --epochs=200 --walk-length=30 --window-size=30 --number-walks=50 --lr_dw=0.01
-python trainnew.py --model="gcn_ae" --dataset-str="ogbn-arxiv" --dw=1 --epochs=200 --walk-length=30 --window-size=30 --number-walks=50 --lr_dw=0.01
+python trainnew.py --model="gcn_ae" --dataset-str="arxiv" --dw=1 --epochs=200 --walk-length=30 --window-size=30 --number-walks=50 --lr_dw=0.01
 ```
 To train TORC run the following command
 ```bash
