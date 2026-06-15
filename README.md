@@ -1,4 +1,4 @@
-# AGATE
+# Bidirectional Semantic Accumulation for Deep Graph Representation Learning via Autoencoders
 Code for the paper ["Bidirectional Semantic Accumulation for Deep Graph Representation Learning via Autoencoders"]
 
 The base code is a PyTorch implementation of the Variational Graph Auto-Encoder model described in the paper:
